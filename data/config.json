@@ -1,0 +1,8 @@
+{
+    "models":{
+        "low":"ibm-granite/granite-3.0-3b-a800m-instruct",
+        "mid":"internlm/internlm2-7b",
+        "high":"meta-llama/Llama-4-Scout-17B-16E-Instruct",
+        "fallback":"openai/gpt-oss-20b"
+    }
+}
